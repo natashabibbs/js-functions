@@ -102,7 +102,7 @@ console.log(testGreeting); // printing the output value of the function.
  *   @param Datatype: Number `x`
  *   @return Datatype: String
  *
- * This function will return the string "Mariah Carey has been married `x` amount of times." Where `x` is the value when you invoke the function. Invoke this function using the variable `sum`. 
+ * This function will return the string "There are `x` states in the United States." Where `x` is the value when you invoke the function. Invoke this function using the variable `sum`. 
  * Console.log your result.
 */
 
@@ -255,21 +255,20 @@ console.log(testGreeting); // printing the output value of the function.
 
 /*
  * #17
- * Function - verifyDrinkingAge
- * Create a function named verifyDrinkingAge which takes a parameter named `age`. 
+ * Function - verifyDrivingAge
+ * Create a function named verifyDrivingAge which takes a parameter named `age`. 
  * This function returns a Boolean value, `true` or `false`, depending on 
- * whether `age` is above or below the legal drinking age in the state of Hawaii.
+ * whether `age` is above or below the legal driving age in the state of Hawaii.
  *
  * Call this function and pass in a number value.
- * Store the return value to a variable named `canDrink`. Console.log your result.
+ * Store the return value to a variable named `canDrive`. Console.log your result.
  */
-
 
 
 /**
  * #18
- * Function - throwParty
- * Create a function named throwParty. This function will check the value stored in the `canDrink` variable in the previous exercise. If the value is true, it will return the message "Cheee Hoo! We going to da party!" If false, then it will return the message "Meh, see you at Starbucks." Store the return value to a variable named `canParty`. Console.log your result.
+ * Function - roadTrip
+ * Create a function named roadTrip. This function will check the value stored in the `roadTrip` variable in the previous exercise. If the value is true, it will return the message "Cheee Hoo! We goin on a Road Trip!" If false, then it will return the message "Meh, I guess I'll just stay home." Store the return value to a variable named `canDrive`. Console.log your result.
  */
 
 
